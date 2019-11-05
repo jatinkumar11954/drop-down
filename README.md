@@ -6,7 +6,7 @@
 <h3>Description:</h3>
 <p>There will be a drop down and in which when you press a button the image which is right side to that drop dwon will change</p>
 
-<P>by using javascript the images will change as per the selection of drop down.<br>
+<P>by using javascript (DOM) the images will change as per the selection of drop down.<br>
 <p>Also included , the<br><b>.classname</b>-scrollbar<br> {width:<b>in px or %</b><br>
 }<br>attribute to the drpdwn class which is the dropdown element in the page
    <br>
