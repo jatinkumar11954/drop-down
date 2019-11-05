@@ -9,9 +9,9 @@ In the script at the src<br>
 
 Specify location of image
 </p>
-<p>Also included ,the scrollbar-width attribute to the drpdwn class which is the dropdown element in the page
+<p>Also included ,the <b>.classname<b>-scrollbar{width:<b>in px or %<b>} attribute to the drpdwn class which is the dropdown element in the page
    <br>
-Is doesn't support in chrome so ::-webkit- should be added in the attribute of the few class
+Is doesn't support in chrome so ::-webkit-scrollbar{} should be added in the attribute of the few class
 <br>
 There are also other properties of scroll bar can be changed 
 <A href="https://www.w3schools.com/howto/howto_css_custom_scrollbar.asp">REFER THIS SITE</A>
