@@ -9,7 +9,7 @@ In the script at the src<br>
 
 Specify location of image
 </p>
-<p>Also included ,the <b>.classname<b>-scrollbar{width:<b>in px or %<b>} attribute to the drpdwn class which is the dropdown element in the page
+<p>Also included ,the <b>.classname</b>-scrollbar{width:<b>in px or %</b>} attribute to the drpdwn class which is the dropdown element in the page
    <br>
 Is doesn't support in chrome so ::-webkit-scrollbar{} should be added in the attribute of the few class
 <br>
