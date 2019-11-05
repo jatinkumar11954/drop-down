@@ -9,7 +9,8 @@ In the script at the src<br>
 
 Specify location of image
 </p>
-<p>Also included ,the<br><b>.classname</b>-scrollbar<br> {width:<b>in px or %</b>}<br>attribute to the drpdwn class which is the dropdown element in the page
+<p>Also included ,the<br><b>.classname</b>-scrollbar<br> {width:<b>in px or %</b><br>
+}<br>attribute to the drpdwn class which is the dropdown element in the page
    <br>
 Is doesn't support in chrome so ::-webkit-scrollbar{} should be added in the attribute of the few class
 <br>
@@ -18,6 +19,7 @@ There are also other properties of scroll bar can be changed
 ollbar.asp">REFER THIS SITE</A>
 <br>
 To see in which browser does this support and which browser it excludes
-<A href="https://developer.mozilla.org/en-US/docs/Web/CSS/::-webkit-scrollbar">Refer this</a>
+<A href="https://developer.mozilla.org/en-US/docs/Web/CSS/::-webkit-scrollbar">Refer this 
+site</a>
  </p>
 <br>
